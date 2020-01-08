@@ -1,5 +1,5 @@
 {
-    "name": "maba/webpack-migration-bundle",
+    "name": "sumonnmselim/webpack-migration-bundle",
     "description": "Bundle to Help Migrating From Assetic to Webpack",
     "keywords": ["webpack", "assets", "assetic", "symfony", "symfony2", "amd", "commonjs"],
     "license": "MIT",
